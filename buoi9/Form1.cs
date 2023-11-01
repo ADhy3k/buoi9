@@ -113,7 +113,7 @@ namespace buoi9
                     sqlCon.Open();
                 }
                 string deleteString;
-                deleteString = "delete KhoaHoc where MaMH='" + txtMa.Text +"'";
+                deleteString = "delete KhoaHoc where MaMH='" + txtMa.Text + "'";
                 SqlCommand cmd = new SqlCommand(deleteString, sqlCon);
                 cmd.ExecuteNonQuery();
                 if (sqlCon != null && sqlCon.State == ConnectionState.Open)
