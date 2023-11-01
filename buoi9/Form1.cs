@@ -70,7 +70,6 @@ namespace buoi9
                 if (sqlCon != null && sqlCon.State == ConnectionState.Open)
                 {
                     sqlCon.Close();
-                    MessageBox.Show("Đóng kết nối thành công");
                 }
                 MessageBox.Show("Thêm thành công");
             }

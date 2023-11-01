@@ -7,3 +7,4 @@ E:\LuuDuLieuSinhVien\LyDangAnhDuy\buoi9\buoi9\obj\Debug\buoi9.Properties.Resourc
 E:\LuuDuLieuSinhVien\LyDangAnhDuy\buoi9\buoi9\obj\Debug\buoi9.csproj.GenerateResource.Cache
 E:\LuuDuLieuSinhVien\LyDangAnhDuy\buoi9\buoi9\obj\Debug\buoi9.exe
 E:\LuuDuLieuSinhVien\LyDangAnhDuy\buoi9\buoi9\obj\Debug\buoi9.pdb
+E:\LuuDuLieuSinhVien\LyDangAnhDuy\buoi9\buoi9\obj\Debug\buoi9.Form2.resources
